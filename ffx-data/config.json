@@ -3,5 +3,18 @@
   "ffBanner": null,
   "ffPackages": null,
   "banners": null,
-  "quick": null
+  "quick": [
+    {
+      "label": "Telegram",
+      "url": "https://@nff4925"
+    },
+    {
+      "label": "Join Group",
+      "url": ""
+    },
+    {
+      "label": "YouTube",
+      "url": ""
+    }
+  ]
 }
